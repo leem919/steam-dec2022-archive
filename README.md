@@ -10,7 +10,9 @@ Use the following link in the respective steam launch argument to download from 
 
 # Quick Setup
 -Disable steam running on boot
+
 -Run [this](https://gist.github.com/leem919/afca3cd1decdd0cde135fbd754a69e35) script to downgrade steam
+
 -Use the !SteamLauncher script to run it.
 
 Run [this](https://gist.github.com/leem919/7ba80d480424f5db2a873010d95cc7bd) script to return to the normal steam build.
